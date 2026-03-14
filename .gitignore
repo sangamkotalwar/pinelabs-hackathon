@@ -1,0 +1,14 @@
+.env
+*.env
+paychat.db
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+.DS_Store
+/tmp/paychat_invoices/
+*.key
+*.pem
